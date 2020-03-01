@@ -6,8 +6,8 @@ This project is a small powersherll script that was used in order to add users t
 
 
 ### Features
-- Add Users
-- Assign Groups
+- Add users
+- Assign groups
 - Check valid name
 - Check account exists
 - Muliple additional error checking
